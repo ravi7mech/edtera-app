@@ -1,0 +1,7 @@
+{
+  "name": "edtera-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
